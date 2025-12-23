@@ -32,7 +32,7 @@
     "broccoli-writer": "~0.1.1",
     "chalk": "~5.6.2",
     "defeatureify": "~0.2.0",
-    "ember-cli": "0.0.40",
+    "ember-cli": "6.9.1",
     "ember-publisher": "0.0.6",
     "es6-module-transpiler": "~0.4.0",
     "express": "^4.21.2",
@@ -42,6 +42,6 @@
     "ncp": "~0.5.1",
     "rimraf": "~6.1.2",
     "rsvp": "~4.8.5",
-    "yuidocjs": "~0.3.46"
+    "yuidocjs": "~0.10.2"
   }
 }
