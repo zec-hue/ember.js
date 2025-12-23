@@ -36,7 +36,7 @@
     "ember-publisher": "0.0.6",
     "es6-module-transpiler": "~0.4.0",
     "express": "^4.21.2",
-    "glob": "~11.0.0",
+    "glob": "~11.1.0",
     "handlebars": "^4.7.8",
     "mocha": "11.7.5",
     "ncp": "~0.5.1",
